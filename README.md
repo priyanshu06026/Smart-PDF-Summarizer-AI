@@ -160,6 +160,6 @@ git push origin feature-name
 
 ## 👨‍💻 Author
 
-**Aashish Kumar**
+**Priyanshu**
 
-GitHub: https://github.com/aashishky2
+GitHub: https://github.com/priyanshu06026
